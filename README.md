@@ -1,2 +1,2 @@
 # FontData
-FontData is a dataset created by the FontNet paper.
+Nankai Chinese Font Style Dataset is a dataset created by the SwordNet paper.
